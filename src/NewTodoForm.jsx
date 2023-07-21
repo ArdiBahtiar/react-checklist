@@ -24,7 +24,7 @@ export function NewTodoForm(props) {
           id="item"
         />
     </div>
-    <button className="btn">Add</button>
+    <button className="btn">Tambahkan</button>
   </form>
     )
 }
